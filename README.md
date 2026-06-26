@@ -15,3 +15,26 @@ To become a professional **Data Analyst** and build impactful, real-world data s
 *   **Programming Language:** Python
 *   **Business Intelligence (BI):** Power BI
 
+
+---
+
+## 📊 Projects
+
+### Sales Dashboard Project
+I built an interactive Sales Dashboard in Excel to analyze business performance.
+
+**Key Features:**
+- Pivot Tables & Charts for data visualization.
+- Slicers for interactive filtering.
+- KPI cards for quick insights.
+
+**Dashboard Preview:**
+![Sales Dashboard] https://github.com/Kazitahidbd/data-analytics-portfolio/blob/main/Screenshot%202026-06-23%20230120.png
+
+[Click here to download the Excel file] https://github.com/Kazitahidbd/data-analytics-portfolio/blob/main/Dashboard%2004_Sales%20Data%20Analysis%20Working%20File%20(1).xlsx
+
+
+
+
+
+
