@@ -18,7 +18,7 @@ To become a professional **Data Analyst** and build impactful, real-world data s
 
 ---
 
-## 📊 Projects 01
+## 📊 Projects 01 In Excel
 
 ### Sales Dashboard Project
 I built an interactive Sales Dashboard in Excel to analyze business performance.
