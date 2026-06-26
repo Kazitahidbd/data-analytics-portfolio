@@ -30,6 +30,8 @@ I built an interactive Sales Dashboard in Excel to analyze business performance.
 
 **Dashboard Preview:**
 ![Sales Dashboard] https://github.com/Kazitahidbd/data-analytics-portfolio/blob/main/Screenshot%202026-06-26%20233423.png
+
+
 [Click here to download the Excel file] https://github.com/Kazitahidbd/data-analytics-portfolio/blob/main/Dashboard%2004_Sales%20Data%20Analysis%20Working%20File%20(1).xlsx
 
 
