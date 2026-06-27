@@ -29,7 +29,7 @@ I built an interactive Sales Dashboard in Excel to analyze business performance.
 - KPI cards for quick insights.
 
 **Dashboard Preview:**
-![Sales Dashboard]Picture&file Click here- https://github.com/Kazitahidbd/data-analytics-portfolio/tree/main/Dashboard%20Project
+![Sales Dashboard]Picture&file Click here- 
 
 
 
